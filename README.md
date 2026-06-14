@@ -12,7 +12,7 @@
 ## 🚀 Installation & Usage
 
 1. Clone the repository:
-   $ git clone https://github.com/YOUR_USERNAME/duoqc.git
+   $ git clone https://github.com/SayaGarud/duoqc.git
    $ cd duoqc
 
 2. Install the required interface library:
