@@ -120,7 +120,7 @@ def main():
         file_r1 = paths["R1"]
         file_r2 = paths["R2"]
         
-        # Setup Screen Layout
+        # Setup screen layout
         layout = Layout()
         layout.split_column(Layout(name="header", size=3), Layout(name="body"))
         layout["body"].split_row(Layout(name="left_read_r1"), Layout(name="right_read_r2"))
